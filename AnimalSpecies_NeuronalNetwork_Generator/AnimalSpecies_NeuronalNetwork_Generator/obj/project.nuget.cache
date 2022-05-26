@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wf2saojVZmnzPYh5cINj6vDGVieJH+u9xRRXSMtHko/3yRKckVmhcMsRVlmmQX0jS79CzEzOIDpvFGXH3oiDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pkubo\\OneDrive\\Dokumenty\\GitHub\\CSV_files_generators\\AnimalSpecies_NeuronalNetwork_Generator\\AnimalSpecies_NeuronalNetwork_Generator\\AnimalSpecies_NeuronalNetwork_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkubo\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
